@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=django_elasticsearch_docker
+POSTGRES_USER=SDlqciFKflxzCJgJEcMoiuwTIClSuGUX
+POSTGRES_PASSWORD=5pK8DgXcfyRrzBgmbjRML3fDj4iQcLLh3CX3Apr1xwpZv922EWNnwzxHMzdhUP9c
